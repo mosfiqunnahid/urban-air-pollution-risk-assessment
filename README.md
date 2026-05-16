@@ -1,6 +1,5 @@
 # Data
-
-Place the UCI Air Quality dataset in this folder.
+The project evaluates seasonal pollution variation, high-risk NO₂ events, atmospheric relationships, and the explanatory power of meteorological and pollutant predictor.
 
 Expected filename:
 
